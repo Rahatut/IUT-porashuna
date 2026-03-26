@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "ccb5dbe270795f67",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b3378b7c3b275a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fea78d5fc3764a06",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3-1/Theory/MPAL/Q1 Microprocessor pt2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Q1 Microprocessor pt2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16bfeb94aaf4122f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcfdea2c7dff1d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f41240440fd02338",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b2ef89909132fcd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af2cd4efd4a90a5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd6fcf0281c6dea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "60f05340a0e85efd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f2ffb814e648a4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3-1/Theory/MPAL/Q1 Microprocessor pt2.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Q1 Microprocessor pt2"
+            }
+          },
+          {
+            "id": "5a5e6c9cb7e9bd00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3-1/Theory/MPAL/Q1 Microprocessor pt2.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Q1 Microprocessor pt2"
+            }
+          },
+          {
+            "id": "95f10ff51628edc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9387552ba383b61e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a8cf1c3eb37c4342",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3-1/Theory/MPAL/Q1 Microprocessor pt2.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Q1 Microprocessor pt2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fea78d5fc3764a06",
+  "lastOpenFiles": [
+    "3-1/Theory/MPAL/Q1 Microprocessor pt1.pdf",
+    "3-1/Theory/MPAL/Memory Addressing.pdf",
+    "3-1/Theory/MPAL/Instruction coding.pdf",
+    "3-1/Theory/Math/Residue maths pt 2.pdf",
+    "3-1/Theory/Math/Residue maths pt 1.pdf",
+    "3-1/Theory/Math/Concepts_Residue.pdf",
+    "3-1/Lab/Web/Group 9 [109, 122, 156].pdf",
+    "3-1/Lab/Software Dev/CityZen.pdf",
+    "3-1/Lab/RDBMS/Team_HomeSick.pdf",
+    "3-1/Lab/RDBMS/ERD diagram.jpg",
+    "3-1/Lab/OS/220041122_Lab2.pdf",
+    "3-1/Lab/OS/220041122_Lab1.pdf"
+  ]
+}
