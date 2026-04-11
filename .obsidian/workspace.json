@@ -4,22 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "2b3378b7c3b275a2",
+        "id": "9f26082e1fcd7ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "fea78d5fc3764a06",
+            "id": "6d4c6c9e06c55725",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3-1/Theory/MPAL/Q1 Microprocessor pt2.pdf"
+                "file": "3-1/Theory/Math/multivariable_calculus_big_picture_study_list.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Q1 Microprocessor pt2"
+              "icon": "lucide-file",
+              "title": "multivariable_calculus_big_picture_study_list"
+            }
+          },
+          {
+            "id": "b890e18df2eef76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-1/Theory/Network/UDP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UDP"
+            }
+          },
+          {
+            "id": "06c0e4831fac8a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-1/Theory/Network/TCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP"
+            }
+          },
+          {
+            "id": "c28036a7c147afd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-1/Theory/Network/SCTP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCTP"
+            }
+          },
+          {
+            "id": "0f6aa9eab4703260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-1/Theory/Network/Application layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Application layer"
+            }
+          },
+          {
+            "id": "64d0a41ab3c48641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-1/Theory/Network/QnA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QnA"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -181,8 +254,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "fea78d5fc3764a06",
+  "active": "f41240440fd02338",
   "lastOpenFiles": [
+    "3-1/Theory/Network/Application layer.md",
+    "3-1/Theory/Network/QnA.md",
+    "3-1/Theory/Network/UDP.md",
+    "3-1/Theory/Network/TCP.md",
+    "3-1/Theory/Network/SCTP.md",
+    "3-1/Theory/Math/multivariable_calculus_big_picture_study_list.md",
+    "3-1/Theory/Network",
+    "3-1/Theory/Math/double_triple_integrals.md",
+    "3-1/Theory/MPAL/Q1 Microprocessor pt2.pdf",
     "3-1/Theory/MPAL/Q1 Microprocessor pt1.pdf",
     "3-1/Theory/MPAL/Memory Addressing.pdf",
     "3-1/Theory/MPAL/Instruction coding.pdf",
@@ -191,9 +273,6 @@
     "3-1/Theory/Math/Concepts_Residue.pdf",
     "3-1/Lab/Web/Group 9 [109, 122, 156].pdf",
     "3-1/Lab/Software Dev/CityZen.pdf",
-    "3-1/Lab/RDBMS/Team_HomeSick.pdf",
-    "3-1/Lab/RDBMS/ERD diagram.jpg",
-    "3-1/Lab/OS/220041122_Lab2.pdf",
-    "3-1/Lab/OS/220041122_Lab1.pdf"
+    "3-1/Lab/RDBMS/ERD diagram.jpg"
   ]
 }
