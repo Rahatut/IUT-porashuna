@@ -1,0 +1,175 @@
+\documentclass[17pt]{extarticle}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\title{Math Expression}
+\author{Zadid Bin Azad}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\newpage
+
+\section{Inline Math Mode}
+
+The quadratic formula \(x= \frac{-b \pm \sqrt{b^2-4ac}}{2a}\) was invented way back in the Egyptian time.
+\\
+In \LaTeX shorthand there is another way to write inline equations that is $E = mc^2$
+\\
+For the third method, let's say area of a circle is \begin{math}
+Area = \pi R^2
+\end{math}
+
+\section{Display Math Mode}
+This is the un-numbered mode.
+\[\int_0^\infty e^{-x^2}\,dx = \frac{\sqrt{\pi}}{2}\]
+.
+The \LaTeX shorthand method is next; 
+$$
+f(x) = \sum_{n=0}^{\infty} \frac{x^n}{n!}
+$$
+
+\begin{displaymath}
+\lim_{x \to 0} \frac{\sin x}{x} = 1
+\end{displaymath}
+
+\section{Equation Environment}
+There are two variants, one is equation and equation*
+
+\begin{equation} \label{eqn:pythagoras}
+    a^2 + b^2 = c^2
+\end{equation}
+
+We can refer to an equation with \autoref{eqn:pythagoras}.
+
+Same equations without numbering
+\begin{equation*}
+    a^2 + b^2 = c^2
+\end{equation*}
+
+
+\section{Math functions, Superscripts \& Subscripts}
+$x^2,\quad x^{10}, \quad x_i, \quad x_{ij}, \quad \sum_{i=1}^{n} x_i$ 
+\\
+Trigonometric Function:
+$\sin{x^2}, \quad \cos{\theta},\quad \tan^{-1}{x}$
+\\
+nth Root:
+$\sqrt[3]{8}$
+\\
+\\
+$\frac{a}{b} \times \frac{c}{d}$
+
+\section{Symbols}
+$$\neq$$
+$$\leq$$
+$$\geq$$
+$$\approx$$
+$$\equiv$$
+$$\propto$$
+$$\ll$$
+$\gg$
+
+\section{Brackets}
+\[
+    \left( \frac{\frac{ac}{d^2}}{\sin{\frac{2\theta}{\pi}}} \right)
+\]
+
+
+\section{Greek letters}
+$$\alpha$$
+$$\Delta$$
+$$\delta$$
+$$\phi$$
+$$\Phi$$
+$$\mu$$
+
+Special Math fonts
+$$\mathcal{A}$$
+$$\mathfrak{H}$$
+$$\mathbb{R}$$
+$$\mathbb{Z}$$
+$$\mathbb{N}$$
+
+\section{Vectors}
+$$\Vec{v}$$
+$$\Vec{AB}$$
+
+$$\vec{u} \cdot \vec{v} = |\vec{u}||\vec{v}|\cos{\theta}$$
+
+\section{Aligning Equations}
+\begin{align}
+    x + y &= 5 \\
+    2x - y &= 10 \\
+    x &=2
+\end{align}
+
+\begin{align*}
+    (a+b)^2 &= a^2 + 2ab + b^2 \\
+    &= a^2 +b^2 + 2ab
+\end{align*}
+
+\begin{gather*}
+    a+b = c \\
+    x^2 + y^2 =r^2
+\end{gather*}
+
+\begin{multline}
+    p(x) = x^8 + x^7 + x^6 + x^8 + x^7 + x^6  \\
+    +x^5 + x^4 + x^8 + x^7 + x^6 +1
+\end{multline}
+
+\begin{equation}
+    \begin{split}
+        f(x) &= x^2 + 2x+1\\
+        &= (x+1) ^2
+    \end{split}
+\end{equation}
+
+
+\section{Matrices}
+\[
+\begin{matrix}
+    a & b \\
+    c & d
+\end{matrix}
+\]
+
+\[
+\begin{pmatrix}
+    a & b \\
+    c & d
+\end{pmatrix}
+\]
+
+\[
+\begin{bmatrix}
+    a & b \\
+    c & d
+\end{bmatrix}
+\]
+
+\[
+\begin{Bmatrix}
+    a & b \\
+    c & d
+\end{Bmatrix}
+\]
+
+\[
+\begin{vmatrix}
+    a & b \\
+    c & d
+\end{vmatrix}
+\]
+
+\[
+\begin{Vmatrix}
+    a & b \\
+    c & d
+\end{Vmatrix}
+\]
+
+\end{document}
